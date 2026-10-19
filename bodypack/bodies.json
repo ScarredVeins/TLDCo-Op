@@ -1,0 +1,131 @@
+{
+  "comment": "Story characters from Episode 5, turned into walking bodies for TLDCoop. gender picks the NPC_M or NPC_F idle/walk/run set; all characters share TLD's Generic NPC rig, so either set plays on any body. Freya (a child) is excluded: the adult clips stretch her to adult size.",
+  "clipsM": [
+    "Assets/ArtAssets/Characters/NPC/NPC_M/Idles/NPC_M_Idle_01.anim",
+    "Assets/ArtAssets/Characters/NPC/NPC_M/Locomotion/NPC_M_Walk.anim",
+    "Assets/ArtAssets/Characters/NPC/NPC_M/Locomotion/NPC_M_Run.anim"
+  ],
+  "clipsF": [
+    "Assets/ArtAssets/Characters/NPC/NPC_F/Idles/NPC_F_Idle_01.anim",
+    "Assets/ArtAssets/Characters/NPC/NPC_F/Locomotion/NPC_F_Walk.anim",
+    "Assets/ArtAssets/Characters/NPC/NPC_F/Locomotion/NPC_F_Run.anim"
+  ],
+  "clipDown": "Assets/ArtAssets/Characters/NPC/NPC_Sit_Ground_Sit_Chair_Idles/Sit_Ground/NPC_Sit_Ground_Idle_01.anim",
+  "bodies": [
+    {
+      "id": "mackenzie",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/Mackenzie_Ep5/Mackenzie_Ep5.prefab"
+    },
+    {
+      "id": "mackenzie_indoor",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/Mackenzie_Ep5/MackenzieIndoor_Ep5.prefab"
+    },
+    {
+      "id": "astrid",
+      "gender": "F",
+      "prefab": "Assets/ArtAssets/Characters/Astrid_Ep5/Astrid_Ep5.prefab"
+    },
+    {
+      "id": "astrid_outdoor",
+      "gender": "F",
+      "prefab": "Assets/ArtAssets/Characters/Astrid_Ep5/AstridOutdoor_Ep5.prefab"
+    },
+    {
+      "id": "molly",
+      "gender": "F",
+      "prefab": "Assets/ArtAssets/Characters/Molly_Ep5/Molly_Ep5.prefab"
+    },
+    {
+      "id": "jane",
+      "gender": "F",
+      "prefab": "Assets/ArtAssets/Characters/Jane_Ep5/Jane_Ep5.prefab"
+    },
+    {
+      "id": "jane_outdoor",
+      "gender": "F",
+      "prefab": "Assets/ArtAssets/Characters/JaneOutdoor_Ep5/JaneOutdoor_Ep5.prefab"
+    },
+    {
+      "id": "jeremiah",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/Jeremiah_Ep5/Jeremiah_Ep5.prefab"
+    },
+    {
+      "id": "methuselah",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/Methuselah_Ep5/Methuselah_Ep5.prefab"
+    },
+    {
+      "id": "heller",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/Heller_Ep5/Heller_Ep5.prefab"
+    },
+    {
+      "id": "jace",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/Jace_Ep5/Jace_Ep5.prefab"
+    },
+    {
+      "id": "mathis",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/Mathis_Ep5/Mathis_Ep5.prefab"
+    },
+    {
+      "id": "terry",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/Terry_Ep5/Terry_Ep5.prefab"
+    },
+    {
+      "id": "atwood",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/Atwood_Ep5/Atwood_Ep5.prefab"
+    },
+    {
+      "id": "convict_c",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/ConvictC_Ep5/ConvictC_Ep5.prefab"
+    },
+    {
+      "id": "convict_e",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/ConvictE_Ep5/ConvictE_Ep5.prefab"
+    },
+    {
+      "id": "convict_f",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/ConvictF_Ep5/ConvictF_Ep5.prefab"
+    },
+    {
+      "id": "convict_g",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/ConvictG_Ep5/ConvictG_Ep5.prefab"
+    },
+    {
+      "id": "millworker",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/MillWorker_02_Ep5/MillWorker_02_Ep5.prefab"
+    },
+    {
+      "id": "patron1",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/CoopersBlindPatron_01_Ep5/CoopersBlindPatron_01_Ep5.prefab"
+    },
+    {
+      "id": "patron3",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/CoopersBlindPatron_03_Ep5/CoopersBlindPatron_03_Ep5.prefab"
+    },
+    {
+      "id": "patron4",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/CoopersBlindPatron_04_Ep5/CoopersBlindPatron_04_Ep5.prefab"
+    },
+    {
+      "id": "patron5",
+      "gender": "M",
+      "prefab": "Assets/ArtAssets/Characters/CoopersBlindPatron_05_Ep5/CoopersBlindPatron_05_Ep5.prefab"
+    }
+  ]
+}

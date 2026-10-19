@@ -1,0 +1,10 @@
+build/
+backups/
+tools/*.txt
+__pycache__/
+# The body pack's working folders (a rip of your own install and a Unity project): large and local-only
+rip/
+external/
+bodypack/project/
+bodypack/*.log
+dist/
